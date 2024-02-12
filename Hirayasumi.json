@@ -1,0 +1,497 @@
+{
+  "title": "Hirayasumi ひらやすみ",
+  "description": "29-year-old freeter Ikuta Hiroto is a carefree young man without a love life, regular job, or any real worries about the future. He inherits an old house from the neighbourhood granny, where his 18-year-old cousin, Natsumi moves in with him to study art in Tokyo. This is a story about Hiroto and the people around him who struggle with life.",
+  "artist": "Shinzou Keigo",
+  "author": "Shinzou Keigo",
+  "cover": "https://m.media-amazon.com/images/I/71OxTuc1TyL._AC_UF1000,1000_QL80_.jpg",
+  "chapters": {
+    "1": {
+      "title": "0 — Hiroto Kun's Day Off",
+      "volume": "1",
+      "last_updated": "1707704201",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jMA==/"
+      }
+    },
+    "2": {
+      "title": "1 — Hiroto and Natsumi",
+      "volume": "1",
+      "last_updated": "1707704345",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jMQ==/"
+      }
+    },
+    "3": {
+      "title": "2 — I Don't Need 100 Friends",
+      "volume": "1",
+      "last_updated": "1707704450",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jMg==/"
+      }
+    },
+    "4": {
+      "title": "3 —  Jacket and Desk Lamp",
+      "volume": "1",
+      "last_updated": "1707704485",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jMw==/"
+      }
+    },
+    "5": {
+      "title": "4 — Fretting and Sparkling",
+      "volume": "1",
+      "last_updated": "1707704511",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jNA==/"
+      }
+    },
+    "6": {
+      "title": "5 — I Can Manage On My Own",
+      "volume": "1",
+      "last_updated": "1707704559",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jNQ==/"
+      }
+    },
+    "7": {
+      "title": "6 — White Hydrangea",
+      "volume": "1",
+      "last_updated": "1707704666",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jNg==/"
+      }
+    },
+    "8": {
+      "title": "7 — Evening Shower",
+      "volume": "1",
+      "last_updated": "1707704698",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jNw==/"
+      }
+    },
+    "9": {
+      "title": "8 — Cutting Board and Shima-aji",
+      "volume": "1",
+      "last_updated": "1707704973",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jOA==/"
+      }
+    },
+    "10": {
+      "title": "9 — Natsumi's Angry Road!",
+      "volume": "1",
+      "last_updated": "1707705204",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jOQ==/"
+      }
+    },
+    "11": {
+      "title": "10 — Part-time Job Debut",
+      "volume": "1",
+      "last_updated": "1707705230",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jMTA=/"
+      }
+    },
+    "12": {
+      "title": "11 — The Two Who Chase Their Dreams",
+      "volume": "1",
+      "last_updated": "1707705254",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jMTE=/"
+      }
+    },
+    "13": {
+      "title": "12 — Left Behind in a Summer Film",
+      "volume": "1",
+      "last_updated": "1707705292",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jMTI=/"
+      }
+    },
+    "14": {
+      "title": "13 — Tanabata Festival Rebellion at Asagaya! Pt. 1",
+      "volume": "1",
+      "last_updated": "1707705311",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jMTM=/"
+      }
+    },
+    "15": {
+      "title": "14 — Tanabata Festival Rebellion at Asagaya! Pt. 2",
+      "volume": "1",
+      "last_updated": "1707705389",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jMTQ=/"
+      }
+    },
+    "16": {
+      "title": "15 — On a Typhoon Night",
+      "volume": "1",
+      "last_updated": "1707705430",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jMTU=/"
+      }
+    },
+    "17": {
+      "title": "16 —Takoyaki and Cake",
+      "volume": "1",
+      "last_updated": "1707705462",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jMTY=/"
+      }
+    },
+    "18": {
+      "title": "17 — Hiroto-kun's Job",
+      "volume": "1",
+      "last_updated": "1707705616",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jMTc=/"
+      }
+    },
+    "19": {
+      "title": "18 — A Full Moon and Chestnut Rice",
+      "volume": "1",
+      "last_updated": "1707705659",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jMTg=/"
+      }
+    },
+    "20": {
+      "title": "19 — A DIfferent Kind of Man",
+      "volume": "1",
+      "last_updated": "1707705672",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jMTk=/"
+      }
+    },
+    "21": {
+      "title": "20 — Our Basketball Game",
+      "volume": "1",
+      "last_updated": "1707705828",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jMjA=/"
+      }
+    },
+    "22": {
+      "title": "21 — Unexpected Romance?! Art Festival Pt. 1",
+      "volume": "1",
+      "last_updated": "1707705849",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jMjE=/"
+      }
+    },
+    "23": {
+      "title": "22 —  Unexpected Romance?! Art Festival Pt. 2",
+      "volume": "1",
+      "last_updated": "1707705941",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jMjI=/"
+      }
+    },
+    "24": {
+      "title": "23 — Worldly Desires and Farts",
+      "volume": "1",
+      "last_updated": "1707705967",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jMjM=/"
+      }
+    },
+    "25": {
+      "title": "24 — Drive My Halloween",
+      "volume": "1",
+      "last_updated": "1707705988",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jMjQ=/"
+      }
+    },
+    "26": {
+      "title": "25 — Buried UFO",
+      "volume": "1",
+      "last_updated": "1707706009",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jMjU=/"
+      }
+    },
+    "27": {
+      "title": "26 — Ishikawa's Way",
+      "volume": "1",
+      "last_updated": "1707706039",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jMjY=/"
+      }
+    },
+    "28": {
+      "title": "27 — Socks and Psychology",
+      "volume": "1",
+      "last_updated": "1707706068",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jMjc=/"
+      }
+    },
+    "29": {
+      "title": "28 — Midnight on Christmas!! Pt. 1",
+      "volume": "1",
+      "last_updated": "1707706086",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jMjg=/"
+      }
+    },
+    "30": {
+      "title": "29 — Midnight on Christmas!! Pt. 2",
+      "volume": "1",
+      "last_updated": "1707706100",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jMjk=/"
+      }
+    },
+    "31": {
+      "title": "30 — Homecoming",
+      "volume": "1",
+      "last_updated": "1707706141",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jMzA=/"
+      }
+    },
+    "32": {
+      "title": "31 — Please Teach Me in a Way I Understand",
+      "volume": "1",
+      "last_updated": "1707706158",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jMzE=/"
+      }
+    },
+    "33": {
+      "title": "32 — Grave Visit",
+      "volume": "1",
+      "last_updated": "1707706173",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jMzI=/"
+      }
+    },
+    "34": {
+      "title": "33 — Sprint",
+      "volume": "1",
+      "last_updated": "1707706189",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jMzM=/"
+      }
+    },
+    "35": {
+      "title": "34 — What's Your Dream?",
+      "volume": "1",
+      "last_updated": "1707706209",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jMzQ=/"
+      }
+    },
+    "36": {
+      "title": "35 — Yamada-kun's Spring Break",
+      "volume": "1",
+      "last_updated": "1707706231",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jMzU=/"
+      }
+    },
+    "37": {
+      "title": "36 — Youth and Rice Fields",
+      "volume": "1",
+      "last_updated": "1707706250",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jMzY=/"
+      }
+    },
+    "38": {
+      "title": "37 — Meat Buns Taste Just Like Those Days",
+      "volume": "1",
+      "last_updated": "1707706273",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jMzc=/"
+      }
+    },
+    "39": {
+      "title": "38 — The Slob vs The Minimalist",
+      "volume": "1",
+      "last_updated": "1707706288",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jMzg=/"
+      }
+    },
+    "40": {
+      "title": "39 — Spring Haze",
+      "volume": "1",
+      "last_updated": "1707706307",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jMzk=/"
+      }
+    },
+    "41": {
+      "title": "40 — A Happy Flower Viewing Party",
+      "volume": "1",
+      "last_updated": "1707706316",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jNDA=/"
+      }
+    },
+    "42": {
+      "title": "41 — New Semester",
+      "volume": "1",
+      "last_updated": "1707706336",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jNDE=/"
+      }
+    },
+    "43": {
+      "title": "42 — See You Later, Youth",
+      "volume": "1",
+      "last_updated": "1707706355",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jNDI=/"
+      }
+    },
+    "44": {
+      "title": "43 — Stars and Omusoba",
+      "volume": "1",
+      "last_updated": "1707706398",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jNDM=/"
+      }
+    },
+    "45": {
+      "title": "44 — Granny's Challenge",
+      "volume": "1",
+      "last_updated": "1707706408",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jNDQ=/"
+      }
+    },
+    "46": {
+      "title": "45 — Restart",
+      "volume": "1",
+      "last_updated": "1707706426",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jNDU=/"
+      }
+    },
+    "47": {
+      "title": "46 — Offal Stew Under the Setting Sun",
+      "volume": "1",
+      "last_updated": "1707706440",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jNDY=/"
+      }
+    },
+    "48": {
+      "title": "47 — Don't Rush! Takoyaki",
+      "volume": "1",
+      "last_updated": "1707706463",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jNDc=/"
+      }
+    },
+    "49": {
+      "title": "48 — Are Treats Really Necessary?",
+      "volume": "1",
+      "last_updated": "1707706477",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jNDg=/"
+      }
+    },
+    "50": {
+      "title": "49 — Hollyhocks and Miso Soup",
+      "volume": "1",
+      "last_updated": "1707706503",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jNDk=/"
+      }
+    },
+    "51": {
+      "title": "50 — An Unchanging Man",
+      "volume": "1",
+      "last_updated": "1707706515",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jNTA=/"
+      }
+    },
+    "52": {
+      "title": "51 — Start of Filming",
+      "volume": "1",
+      "last_updated": "1707706638",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jNTE=/"
+      }
+    },
+    "53": {
+      "title": "52 — Spot-billed Ducks and Ducklings",
+      "volume": "1",
+      "last_updated": "1707706660",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jNTI=/"
+      }
+    },
+    "54": {
+      "title": "53 — Natsumi-chan's Meaningless Stuff",
+      "volume": "1",
+      "last_updated": "1707706678",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jNTM=/"
+      }
+    },
+    "55": {
+      "title": "54 — Summer is Almost Here",
+      "volume": "1",
+      "last_updated": "1707706701",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jNTQ=/"
+      }
+    },
+    "56": {
+      "title": "55 — Catch",
+      "volume": "1",
+      "last_updated": "1707706721",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jNTU=/"
+      }
+    },
+    "57": {
+      "title": "56 — It's a Wrap",
+      "volume": "1",
+      "last_updated": "1707706731",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jNTY=/"
+      }
+    },
+    "58": {
+      "title": "57 — Hot Summer Day",
+      "volume": "1",
+      "last_updated": "1707706755",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jNTc=/"
+      }
+    },
+    "59": {
+      "title": "58 — The Asagaya Tanabata Festival Incident! Pt. 1",
+      "volume": "1",
+      "last_updated": "1707706785",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jNTg=/"
+      }
+    },
+    "60": {
+      "title": "59 — The Asagaya Tanabata Festival Incident! Pt. 2",
+      "volume": "1",
+      "last_updated": "1707706798",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jNTk=/"
+      }
+    },
+    "61": {
+      "title": "60 — The Asagaya Tanabata Festival Incident! Pt. 3",
+      "volume": "1",
+      "last_updated": "1707706822",
+      "groups": {
+        "Manga Katana": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvaGlyYXlhc3VtaS4yNjM0Ny9jNjA=/"
+      }
+    }
+  }
+}
