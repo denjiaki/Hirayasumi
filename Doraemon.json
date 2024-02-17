@@ -1,8 +1,17 @@
 {
-  "title": "Doraemon",
+  "title": "Doraemon ドラえもん (Japanese) ",
   "description": "Nobita Nobi is a ten-year-old Japanese school boy, who is kind-hearted and honest, but also lazy, unlucky, weak, gets bad grades and is bad at sports. One day, a robot cat from the 22nd century named Doraemon is sent back to the past by Nobita's future grandchild, Sewashi Nobi, to take care of Nobita so that his descendants can have a better life.",
   "artist": "Fujiko F. Fujio",
   "author": "Fujiko Fujio",
   "cover": "https://m.media-amazon.com/images/I/71Cdh8RPAzL._AC_UF1000,1000_QL80_.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1708138288",
+      "groups": {
+        "": ""
+      }
+    }
+  }
 }
