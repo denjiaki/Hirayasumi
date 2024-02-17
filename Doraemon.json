@@ -6,11 +6,27 @@
   "cover": "https://m.media-amazon.com/images/I/71Cdh8RPAzL._AC_UF1000,1000_QL80_.jpg",
   "chapters": {
     "1": {
-      "title": "1",
-      "volume": "",
+      "title": "Volume 1",
+      "volume": "1",
       "last_updated": "1708138288",
       "groups": {
-        "": "/proxy/api/imgur/chapter/NIynxQk"
+        "imgur": "/proxy/api/imgur/chapter/NIynxQk"
+      }
+    },
+    "2": {
+      "title": "Volume 2",
+      "volume": "2",
+      "last_updated": "1708139003",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/qbH0AkB"
+      }
+    },
+    "3": {
+      "title": "Volume 3",
+      "volume": "3",
+      "last_updated": "1708139792",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/ZVdGRXG"
       }
     }
   }
