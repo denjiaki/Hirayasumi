@@ -28,6 +28,38 @@
       "groups": {
         "imgur": "/proxy/api/imgur/chapter/ZVdGRXG"
       }
+    },
+    "4": {
+      "title": "Volume 4",
+      "volume": "4",
+      "last_updated": "1708142384",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/8efiEtC"
+      }
+    },
+    "5": {
+      "title": "Volume 5",
+      "volume": "5",
+      "last_updated": "1708142436",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/OcTbiny"
+      }
+    },
+    "6": {
+      "title": "Volume 6",
+      "volume": "6",
+      "last_updated": "1708142620",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/W3HAgUo"
+      }
+    },
+    "7": {
+      "title": "Volume 7",
+      "volume": "7",
+      "last_updated": "1708142691",
+      "groups": {
+        "imgur": ""
+      }
     }
   }
 }
